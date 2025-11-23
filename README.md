@@ -9,32 +9,40 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ## Procedure:
 1.	Analyze the Given Image:
 ○	Examine the image carefully, noting key elements such as:
-■	Objects/Subjects (e.g., people, animals, objects)
-■	Colors (e.g., dominant hues, contrasts)
-■	Textures (e.g., smooth, rough, glossy)
-■	Lighting (e.g., bright, dim, shadows)
-■	Background (e.g., outdoor, indoor, simple, detailed)
-■	Composition (e.g., focal points, perspective)
-■	Style (e.g., realistic, artistic, cartoonish)
-2.	Create the Basic Prompt:
+○	Objects/Subjects (e.g., people, animals, objects)
+○	Colors (e.g., dominant hues, contrasts)
+○	Textures (e.g., smooth, rough, glossy)
+○	Lighting (e.g., bright, dim, shadows)
+○	Background (e.g., outdoor, indoor, simple, detailed)
+○	Composition (e.g., focal points, perspective)
+○	Style (e.g., realistic, artistic, cartoonish)
+#### 2.	Create the Basic Prompt:
 ○	Write an initial, simple description of the image. For example, if the image shows a landscape, the prompt could be "A library with tall shelves and books."
-3.	Refine the Prompt with More Detail:
+#### 3.	Refine the Prompt with More Detail:
 ○	Add specific details such as colors, mood, and time of day. For example: "A futuristic library with glowing blue holographic books, tall glass shelves reaching the ceiling, and a dark, mysterious atmosphere."
-4.	Identify Style and Artistic Influences:
+#### 4.	Identify Style and Artistic Influences:
 ○	If the image has a particular style (e.g., impressionist painting, realistic photography, minimalistic), include that in the prompt. For example: "A futuristic library in the style of a cyberpunk digital illustration with neon lighting and sharp details."
 
-5.	Adjust and Fine-tune:
+#### 5.	Adjust and Fine-tune:
 ○	Refine the prompt further by adding specific instructions about elements like textures, weather conditions, or any other distinctive features in the image. For example: "A futuristic library with glowing blue holographic books, tall glass shelves, a sleek metallic reading table in the foreground, soft ambient rain on a skylight above, cyberpunk digital art style."
 
-6.	Generate the Image:
+#### 6.	Generate the Image:
 ○	Use the crafted prompt to generate the image in a text-to-image model (e.g., DALL·E, Stable Diffusion, MidJourney).
+#### IMAGES:
+
 #### Example Prompt 1:
 
 "A wise old owl wearing Victorian steampunk goggles, perched on a brass mechanical branch, detailed feathers, cinematic lighting, 8k resolution." (Generated with MidJourney)
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_fukyyyfukyyyfuky" src="https://github.com/user-attachments/assets/e5223a0a-cb83-4c08-9606-32057df3b92a" />
+
 #### Example Prompt 2:
 
 "A cozy coffee shop inside a glass greenhouse during a rainy day, plants hanging from the ceiling, warm yellow string lights, lo-fi aesthetic." (Generated with Stable Diffusion)
-7.	Compare the Generated Image with the Original:
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_8xy1618xy1618xy1" src="https://github.com/user-attachments/assets/b80426df-8562-4049-8cd4-344109df33b4" />
+
+#### 7.	Compare the Generated Image with the Original:
 
 ○	Assess how closely the generated image matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
 ## Tools/LLMs for Image Generation:
@@ -108,5 +116,3 @@ Integration: Seamless workflows with 3D modeling and video editing software.
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
-
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
